@@ -1,8 +1,10 @@
-Testing ssh keys ..
-
 username:- jha-sudhakar
 
 Course link: https://contest.cs.cmu.edu/295/s20/
+	1. All the coding problems are hosted on codeforces.
+	2. There are previous years iterations of this same course is also availabe online. 
+	   Once I solve Spring 2020 problems can move to previous years.
 
-1. All the coding problems are hosted on codeforces.
-2. There are previous years iterations of this same course is also availabe online. Once I solve Spring 2020 problems can move to previous years.
+===========================================
+1) Steps to skip typing username and password for each git push.
+	https://stackoverflow.com/questions/8588768/how-do-i-avoid-the-specification-of-the-username-and-password-at-every-git-push
