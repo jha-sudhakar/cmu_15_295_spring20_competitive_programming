@@ -1,4 +1,5 @@
 Username:- jha-sudhakar
+Email:     Use the email set for normal online judge
 
 Course link: https://contest.cs.cmu.edu/295/s20/
 	1. All the coding problems are hosted on codeforces.
